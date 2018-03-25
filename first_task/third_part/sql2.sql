@@ -1,0 +1,1 @@
+REPLACE INTO employees values (10, employee_name('Богданович Богдан'), adress('ул.Воронянского 15/2,кв.304'), 2579347, 1400);
